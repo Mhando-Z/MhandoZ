@@ -1,0 +1,67 @@
+.kid{
+  border: 10px;
+  display: inline-flex;
+  align-items: center;
+  font-size: 34px;
+  color:white;
+  font-weight: bold;
+  font-family: serif;
+
+
+}
+.alg{
+  margin: 20px;
+  background-color: dodgerblue;
+  width:10%;
+  height: 90%;
+  padding: 70px;
+  border-radius: 50px;
+  border-style: double;
+  background-image: url(Mhdz.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 240px;
+  backg
+}
+.h1{
+  font-size: 64px;
+  font-weight:bold;
+  text-align: center;
+  color:white;
+  text-decoration:  overline;
+}
+.heads{
+  font-size: 34px;
+  color:white;
+  font-weight: bold;
+  font-family: serif;
+
+}
+.img{
+  border-radius: 50px;
+  width:210px;
+  height:200px;
+  border-style: dotted;
+  border-width: 9px;
+  margin: 50px;
+  margin: 20px;
+  box-shadow: 1px -0px 40px WHITE;
+}
+.imgh{
+  border-radius: 50px;
+  width:70px;
+  height:70px;
+  border-style: double;
+  border-width: 4px;
+  margin: 20px;
+  box-shadow: 1px -0px 10px black;
+  border-style:dashed;
+  border-color:white;
+
+}
+.under{
+  text-decoration: underline;
+  font-size: 34pt;
+
+
+}
