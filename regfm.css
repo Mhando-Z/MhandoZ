@@ -1,0 +1,92 @@
+*{
+  background-color: black;
+  color:white;
+
+}
+body{
+  overflow: scroll;
+}
+H1{
+  text-align: center;
+  border-top-style: double;
+  border-bottom-style: double;
+
+  border-width: 5px;
+  box-shadow: 0px 0px 5px 4px orange;
+  width:400px;
+  margin-left: 35%;
+  font-size: 28pt;
+}
+p{
+  font-size: 16pt;
+  font-weight: bold;
+  color: red;
+}
+
+
+.b{
+  width:690px;
+  height: 30px;
+  text-align: center;
+  display: inline-flex;
+  border: 10px;
+  border-color: white;
+
+  background-color: red;
+
+
+}
+
+.fm{
+  border: 34px;
+  border-color:white;
+  width:90%;
+  height:90%;
+  margin-left: 27%;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.fem{
+  font-size: 13pt;
+  font-weight: bold;
+
+}
+
+.tb{
+  width: 700px;
+  height: 160px;
+  font-size:13pt;
+  font-weight: bold;
+}
+
+.s{
+  margin-left: 16.5%;
+  font-size: 15pt;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  width:150px;
+  border:none;
+  background-color:  red;
+  transition: background-color 1s;
+}
+.s:hover{
+  background-color: blue;
+}
+
+.in{
+  background-color: white;
+  font-size: 12pt;
+  text-align: center;
+  font-weight: bold;
+  border-color: ;
+  border-radius: 10px;
+  color: black;
+  transition: background-color 1s, color 1s;
+}
+.in:hover{
+  background-color: black;
+  color:white;
+}
